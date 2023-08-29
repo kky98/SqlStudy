@@ -1,0 +1,5 @@
+(1) CMD 접속
+(2) sqlplus system/oracle     [dba권한 계정으로 접속]
+(3) ALTER SESSION SET "_ORACLE_SCRIPT"=true;
+(4) @파일경로 
+(5) CONN SCOTT/TIGER  [접속]
